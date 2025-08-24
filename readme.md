@@ -1,2 +1,2 @@
 # housing.ipynb
-page 46
+page 60
